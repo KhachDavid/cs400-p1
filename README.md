@@ -162,8 +162,7 @@ Signature: David Khachatryan
 
 ## Demo<a name="demo"/>
 
-[Link]
-⋮
-[Part 1]: https://flipgrid.com/e22cbf99
-[Part 2]: https://flipgrid.com/c8953f99
-[Part 3]: https://flipgrid.com/40325b69
+[Link]⋮ </br>
+[Part 1]: https://flipgrid.com/e22cbf99 </br>
+[Part 2]: https://flipgrid.com/c8953f99 </br>
+[Part 3]: https://flipgrid.com/40325b69 </br>
