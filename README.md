@@ -39,7 +39,8 @@ Abhimanyu Dev Gupta
 </br></br></br></br>
 ## FrontEnd Developer<a name="packagetwo" />
 
-========================================================</br>
+========================================================
+
 Name of FrontEndDeveloper: Zhiyuan Han</br>
 @wisc.edu Email of FrontEndDeveloper: zhan98@wisc.edu</br>
 Group: CF</br>
@@ -59,6 +60,8 @@ Signature: Zhiyuan Han
 </br></br></br></br>
 
 ## Data Wrangler<a name="packagethree" />
+
+========================================================
 
 Name of DataWrangler: Adilnur Istekov</br>
 @wisc.edu Email of DataWrangler: Istekov@wisc.edu</br>
@@ -81,7 +84,8 @@ Adilnur Istekov
 </br></br></br></br>
 ## Integration Manager<a name="sql-games" />
 
-========================================================</br>
+========================================================
+
 Name of IntegrationManager: David Khachatryan</br>
 @wisc.edu Email of IntegrationManager: dkhachatryan@wisc.edu</br>
 Group: CF</br>
@@ -89,25 +93,25 @@ Team: Red Team</br>
 
 Complete List of Files:
 -----------------------
-backEndHash.java - Created by Abhimany</br>
-backInterface.java - Created by Abhimany</br>
-BackendDummy.java - Provided by the course staff</br>
-BackendInterface.java - Provided by the course staff</br>
-HashTableMap.java - Created by David</br>
-KeyAndValue.java - Created by David</br>
-Main.java - Created by Zhiyuan</br>
-Makefile - Created by David</br>
-MapADT.java - Provided by course staff</br>
-movies.csv - Provided by course staff</br>
-Movie.java - Created by Adilnur</br>
-MovieDataReader.java - Created by Adilnur and David</br>
-MovieDataReaderDummy.java - Provided by course staff</br>
-MovieDataReaderInterface.java - Provided by course staff</br>
-MovieInterface.java - Provided by course staff</br>
-MovieMapper.java - Created by Zhiyuan</br>
-TestBackend.java - Created by Abhimany</br>
-TestFrontEnd.java - Created by Zhiyuan</br>
-TestMovieAndMovieDataReader.java - Created by Adilnur</br>
+[backEndHash.java](https://github.com/KhachDavid/cs400-p1/blob/main/backEndHash.java) - Created by Abhimany</br>
+[backInterface.java](https://github.com/KhachDavid/cs400-p1/blob/main/backInterface.java) - Created by Abhimany</br>
+[BackendDummy.java](https://github.com/KhachDavid/cs400-p1/blob/main/BackendDummy.java) - Provided by the course staff</br>
+[BackendInterface.java](https://github.com/KhachDavid/cs400-p1/blob/main/BackendInterface.java) - Provided by the course staff</br>
+[HashTableMap.java](https://github.com/KhachDavid/cs400-p1/blob/main/HashTableMap.java) - Created by David</br>
+[KeyAndValue.java](https://github.com/KhachDavid/cs400-p1/blob/main/KeyAndValue.java) - Created by David</br>
+[Main.java](https://github.com/KhachDavid/cs400-p1/blob/main/Main.java) - Created by Zhiyuan</br>
+[Makefile](https://github.com/KhachDavid/cs400-p1/blob/main/Makefile) - Created by David</br>
+[MapADT.java](https://github.com/KhachDavid/cs400-p1/blob/main/MapADT.java) - Provided by course staff</br>
+[movies.csv](https://github.com/KhachDavid/cs400-p1/blob/main/movies.csv) - Provided by course staff</br>
+[Movie.java](https://github.com/KhachDavid/cs400-p1/blob/main/Movie.java) - Created by Adilnur</br>
+[MovieDataReader.java](https://github.com/KhachDavid/cs400-p1/blob/main/MovieDataReader.java) - Created by Adilnur and David</br>
+[MovieDataReaderDummy.java](https://github.com/KhachDavid/cs400-p1/blob/main/MovieDataReaderDummy.java) - Provided by course staff</br>
+[MovieDataReaderInterface.java](https://github.com/KhachDavid/cs400-p1/blob/main/MovieDataReaderInterface.java) - Provided by course staff</br>
+[MovieInterface.java](https://github.com/KhachDavid/cs400-p1/blob/main/MovieInterface.java) - Provided by course staff</br>
+[MovieMapper.java](https://github.com/KhachDavid/cs400-p1/blob/main/MovieMapper.java) - Created by Zhiyuan</br>
+[TestBackend.java](https://github.com/KhachDavid/cs400-p1/blob/main/TestBackEnd.java) - Created by Abhimany</br>
+[TestFrontEnd.java](https://github.com/KhachDavid/cs400-p1/blob/main/TestFrontEnd.java) - Created by Zhiyuan</br>
+[TestMovieAndMovieDataReader.java](https://github.com/KhachDavid/cs400-p1/blob/main/TestMovieAndMovieDataReader.java) - Created by Adilnur</br>
 
 
 Instructions to Build, Run and Test your Project:
@@ -115,20 +119,39 @@ Instructions to Build, Run and Test your Project:
 Since this project uses GUI Swing and JFrame libraries, it is not possible to open the GUI with a make run command. 
 You would need to open the code outside the command line to use the frontend.
 
-To run the tests, you can run make test.
-To run a specific test run:
-	make testFrontend
-	make testBackend
-	make testData
+To clone the repository
+```
+$ git clone https://github.com/KhachDavid/cs400-p1.git
+```
 
-To clear the .class files, run make clean. 
+To run the tests, you can run 
+```
+make test.
+```
+To run a specific test run:
+```
+make testFrontend
+```
+
+```
+make testBackend
+```
+	
+```
+make testData
+```
+
+To clear the .class files, run 
+```
+make clean. 
+```
 
 Team Member Contributions:
 --------------------------
 
-Zhiyuan did an amazing job with the frontend. He really went over the line with the front-end design.
-Abhimanyu was always available to debug and pair program. He is a really good team player.
-Adilnur completed his responsibilites on time and very accurately. 
+Zhiyuan did an amazing job with the frontend. He really went over the line with the front-end design.</br>
+Abhimanyu was always available to debug and pair program. He is a really good team player.</br>
+Adilnur completed his responsibilites on time and very accurately. </br>
 
 Overall, the team did fine. We were a little clumsy in terms of being systematic. Next time, we should have a strict deadline to avoid
 last minute hassle. 
