@@ -1,6 +1,6 @@
 # cs400-p1
 
-This repository is a representation of a chess engine using pure Java. It is inspired by Bill Jordan's "How to build a chess engine" and by Joshua Bloch's "Effective Java".
+This repository is contains the first group project of CS400-S21 created by the CF team.
 
 # Table of Contents
 
@@ -15,10 +15,10 @@ This repository is a representation of a chess engine using pure Java. It is ins
 
 ========================================================
 
-Name of BackEndDeveloper: Abhimanyu Dev Gupta
-@wisc.edu Email of BackEndDeveloper: adgupta2@wisc.edu
-Group: CF
-Team: Adilnur Istekov, David Khachatryan, Zhiyuan Han
+Name of BackEndDeveloper: Abhimanyu Dev Gupta</br>
+@wisc.edu Email of BackEndDeveloper: adgupta2@wisc.edu</br>
+Group: CF</br>
+Team: Adilnur Istekov, David Khachatryan, Zhiyuan Han</br>
 
 Files Written by Me:
 --------------------
@@ -39,28 +39,27 @@ Abhimanyu Dev Gupta
 
 ## FrontEnd Developer<a name="packagetwo" />
 
-FrontEndDeveloper README for Project One (CS400 @ UW Madison)
 ========================================================
-Name of FrontEndDeveloper: Zhiyuan Han
-@wisc.edu Email of FrontEndDeveloper: zhan98@wisc.edu
-Group: CF
-Team: red
-Files Written by Me: 
-MoiveMapper.java: Provide user interface for the project
---------------------
+Name of FrontEndDeveloper: Zhiyuan Han</br>
+@wisc.edu Email of FrontEndDeveloper: zhan98@wisc.edu</br>
+Group: CF</br>
+Team: red</br>
+Files Written by Me:</br>
+MoiveMapper.java: Provides user interface for the project</br>
+
+------------------------------
 Additional Contributions: None
 
+------------------------------
 Signature: Zhiyuan Han
-----------
 
 ## Data Wrangler<a name="packagethree" />
 
-DataWrangler README for Project One (CS400 @ UW Madison)
-========================================================
-Name of DataWrangler: Adilnur Istekov
-@wisc.edu Email of DataWrangler:Istekov@wisc.edu
-Group: CF
-Team: red
+Name of DataWrangler: Adilnur Istekov</br>
+@wisc.edu Email of DataWrangler:Istekov@wisc.edu</br>
+Group: CF</br>
+Team: red</br>
+
 Files Written by Me:
 --------------------
 Movie.java MovieDataReader.java TestMovieAndMovieDataReader.java
