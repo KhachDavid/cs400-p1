@@ -44,13 +44,17 @@ Name of FrontEndDeveloper: Zhiyuan Han</br>
 @wisc.edu Email of FrontEndDeveloper: zhan98@wisc.edu</br>
 Group: CF</br>
 Team: red</br>
-Files Written by Me:</br>
-MoiveMapper.java: Provides user interface for the project</br>
 
-------------------------------
-Additional Contributions: None
+Files Written by Me:
+--------------------
+1) MovieMapper.java: Provides user interface for the project</br>
 
-------------------------------
+Additional Contributions:
+-------------------------
+None
+
+Signature:
+----------
 Signature: Zhiyuan Han
 </br></br></br></br>
 
@@ -63,16 +67,17 @@ Team: red</br>
 
 Files Written by Me:
 --------------------
+1) Movie.java - Creates a Movie Object</br>
+2) MovieDataReader.java - Reads The CSV file and loads it into a 2D array</br>
+3) TestMovieAndMovieDataReader.java - Tests the given two files</br>
 
-Movie.java MovieDataReader.java 
-TestMovieAndMovieDataReader.java
+Additional Contributions:
+-------------------------
+I attended Zoom meetings and conversations on Whatsapp
 
-------------------------------
-Additional Contributions: I attended Zoom meetings and conversations on Whatsapp
-
-------------------------------
-Signature: Adilnur Istekov
-
+Signature:
+----------
+Adilnur Istekov
 </br></br></br></br>
 ## Integration Manager<a name="sql-games" />
 
