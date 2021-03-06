@@ -178,3 +178,5 @@ Signature: David Khachatryan <a name="s4" />
 [Part 1]: https://flipgrid.com/e22cbf99 </br>
 [Part 2]: https://flipgrid.com/c8953f99 </br>
 [Part 3]: https://flipgrid.com/40325b69 </br>
+
+Courtesy of David Khachatryan
