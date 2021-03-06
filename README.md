@@ -39,7 +39,7 @@ Abhimanyu Dev Gupta
 </br></br></br></br>
 ## FrontEnd Developer<a name="packagetwo" />
 
-========================================================
+========================================================</br>
 Name of FrontEndDeveloper: Zhiyuan Han</br>
 @wisc.edu Email of FrontEndDeveloper: zhan98@wisc.edu</br>
 Group: CF</br>
@@ -57,63 +57,52 @@ Signature: Zhiyuan Han
 ## Data Wrangler<a name="packagethree" />
 
 Name of DataWrangler: Adilnur Istekov</br>
-@wisc.edu Email of DataWrangler:Istekov@wisc.edu</br>
+@wisc.edu Email of DataWrangler: Istekov@wisc.edu</br>
 Group: CF</br>
 Team: red</br>
 
 Files Written by Me:
 --------------------
-Movie.java MovieDataReader.java TestMovieAndMovieDataReader.java
-<List all files that were within this project that were written by you, and
- include a short description of the purpose that each file servers>
-Additional Contributions:
--------------------------
-I attended Zoom meetings, and conversations in Whatsapp.
-<List any additional contributions that you have made toward your team's
- completion of this project.  This might include, but is not limited to things
- like: organizing team communication, creating extra tests or dummy classes,
- assisting team members in any way, etc.>
-Signature:
-----------
-Adilnur Istekov
-<Type out your full name here to certify that all of the files written by you
- that are listed above are the product of your individual development efforts
- for this programming assignment.  List below your name, any exceptions, for
- example: work reused from a previous semester, code examples taken from any
- website or book, or anything that was not explicitly authored by you for
- the purpose of completing this assigned CS400 project.> 
+
+Movie.java MovieDataReader.java 
+TestMovieAndMovieDataReader.java
+
+------------------------------
+Additional Contributions: I attended Zoom meetings and conversations on Whatsapp
+
+------------------------------
+Signature: Adilnur Istekov
+
 </br></br></br></br>
 ## Integration Manager<a name="sql-games" />
 
-IntegrationManager README for Project One (CS400 @ UW Madison)
-========================================================
-
-Name of IntegrationManager: David Khachatryan
-@wisc.edu Email of IntegrationManager: dkhachatryan@wisc.edu
-Group: CF
-Team: Red Team
+========================================================</br>
+Name of IntegrationManager: David Khachatryan</br>
+@wisc.edu Email of IntegrationManager: dkhachatryan@wisc.edu</br>
+Group: CF</br>
+Team: Red Team</br>
 
 Complete List of Files:
 -----------------------
-backEndHash.java - Created by Abhimany
-backInterface.java - Created by Abhimany
-BackendDummy.java - Provided by the course staff
-BackendInterface.java - Provided by the course staff
-HashTableMap.java - Created by David
-KeyAndValue.java - Created by David
-Main.java - Created by Zhiyuan
-Makefile - Created by David
-MapADT.java - Provided by course staff
-movies.csv - Provided by course staff
-Movie.java - Created by Adilnur
-MovieDataReader.java - Created by Adilnur and David
-MovieDataReaderDummy.java - Provided by course staff
-MovieDataReaderInterface.java - Provided by course staff
-MovieInterface.java - Provided by course staff
-MovieMapper.java - Created by Zhiyuan
-TestBackend.java - Created by Abhimany
-TestFrontEnd.java - Created by Zhiyuan
-TestMovieAndMovieDataReader.java - Created by Adilnur
+backEndHash.java - Created by Abhimany</br>
+backInterface.java - Created by Abhimany</br>
+BackendDummy.java - Provided by the course staff</br>
+BackendInterface.java - Provided by the course staff</br>
+HashTableMap.java - Created by David</br>
+KeyAndValue.java - Created by David</br>
+Main.java - Created by Zhiyuan</br>
+Makefile - Created by David</br>
+MapADT.java - Provided by course staff</br>
+movies.csv - Provided by course staff</br>
+Movie.java - Created by Adilnur</br>
+MovieDataReader.java - Created by Adilnur and David</br>
+MovieDataReaderDummy.java - Provided by course staff</br>
+MovieDataReaderInterface.java - Provided by course staff</br>
+MovieInterface.java - Provided by course staff</br>
+MovieMapper.java - Created by Zhiyuan</br>
+TestBackend.java - Created by Abhimany</br>
+TestFrontEnd.java - Created by Zhiyuan</br>
+TestMovieAndMovieDataReader.java - Created by Adilnur</br>
 
 
 Instructions to Build, Run and Test your Project:
