@@ -10,7 +10,7 @@ This repository is contains the first group project of CS400-S21 created by the 
 4. [Integration Manager](#sql-games)
 5. [Demo](#demo)
 
-
+</br></br></br></br>
 ## BackEnd Developer<a name="packageone" />
 
 ========================================================
@@ -36,7 +36,7 @@ Discussing the front end and integration with the integration manager.
 Signature:
 ----------
 Abhimanyu Dev Gupta 
-
+</br></br></br></br>
 ## FrontEnd Developer<a name="packagetwo" />
 
 ========================================================
@@ -52,6 +52,7 @@ Additional Contributions: None
 
 ------------------------------
 Signature: Zhiyuan Han
+</br></br></br></br>
 
 ## Data Wrangler<a name="packagethree" />
 
@@ -81,7 +82,7 @@ Adilnur Istekov
  example: work reused from a previous semester, code examples taken from any
  website or book, or anything that was not explicitly authored by you for
  the purpose of completing this assigned CS400 project.> 
-
+</br></br></br></br>
 ## Integration Manager<a name="sql-games" />
 
 IntegrationManager README for Project One (CS400 @ UW Madison)
