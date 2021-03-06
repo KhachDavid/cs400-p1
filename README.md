@@ -8,7 +8,8 @@ This repository is contains the first group project of CS400-S21 created by the 
 2. [FrontEnd Developer](#packagetwo)
 3. [Data Wrangler](#packagethree)
 4. [Integration Manager](#sql-games)
-5. [Demo](#demo)
+5. [Instructions To Run The Project](#run)
+6. [Demo](#demo)
 
 </br></br></br></br>
 ## BackEnd Developer<a name="packageone" />
@@ -114,7 +115,7 @@ Complete List of Files:
 [TestMovieAndMovieDataReader.java](https://github.com/KhachDavid/cs400-p1/blob/main/TestMovieAndMovieDataReader.java) - Created by Adilnur</br>
 
 
-Instructions to Build, Run and Test your Project:
+Instructions to Build, Run and Test your Project:<a name="run" />
 -------------------------------------------------
 Since this project uses GUI Swing and JFrame libraries, it is not possible to open the GUI with a make run command. 
 You would need to open the code outside the command line to use the frontend.
