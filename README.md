@@ -5,11 +5,23 @@ This repository is contains the first group project of CS400-S21 created by the 
 # Table of Contents
 
 1. [BackEnd Developer](#packageone)
+	1. [Files Written](#f1)
+	2. [Additional Contributions](#ac1)
+	3. [Signature](#s1)
 2. [FrontEnd Developer](#packagetwo)
+	1. [Files Written](#f2)
+	2. [Additional Contributions](#ac2)
+	3. [Signature](#s2)
 3. [Data Wrangler](#packagethree)
+	1. [Files Written](#f3)
+	2. [Additional Contributions](#ac3)
+	3. [Signature](#s3)
 4. [Integration Manager](#sql-games)
-5. [Instructions To Run The Project](#run)
-6. [Demo](#demo)
+	1. [Complete List Of Files](#file-list)
+	2. [Instructions To Run The Project](#run)
+	3. [Team Member Contributions](#tmc)
+	4. [Signature](#s4)
+5. [Demo](#demo)
 
 </br></br></br></br>
 ## BackEnd Developer<a name="packageone" />
@@ -21,7 +33,7 @@ Name of BackEndDeveloper: Abhimanyu Dev Gupta</br>
 Group: CF</br>
 Team: Adilnur Istekov, David Khachatryan, Zhiyuan Han</br>
 
-Files Written by Me:
+Files Written by Me: <a name="f1" />
 --------------------
 1) backEndHash - A class that creates two hash tables. One has the rating as key and the other has genre.
 
@@ -30,11 +42,11 @@ Files Written by Me:
 3) backInterface - Implementation of backend interface. Provides functionality to add filters and retrieve resulti\
 ng sets.
 
-Additional Contributions:
+Additional Contributions: <a name="ac1" />
 -------------------------
 Discussing the front end and integration with the integration manager.
 
-Signature:
+Signature: <a name="s1" />
 ----------
 Abhimanyu Dev Gupta 
 </br></br></br></br>
@@ -47,15 +59,15 @@ Name of FrontEndDeveloper: Zhiyuan Han</br>
 Group: CF</br>
 Team: red</br>
 
-Files Written by Me:
+Files Written by Me: <a name="f2" />
 --------------------
 1) MovieMapper.java: Provides user interface for the project</br>
 
-Additional Contributions:
+Additional Contributions: <a name="ac2" />
 -------------------------
 None
 
-Signature:
+Signature: <a name="s2" />
 ----------
 Signature: Zhiyuan Han
 </br></br></br></br>
@@ -69,17 +81,17 @@ Name of DataWrangler: Adilnur Istekov</br>
 Group: CF</br>
 Team: red</br>
 
-Files Written by Me:
+Files Written by Me: <a name="f3" />
 --------------------
 1) Movie.java - Creates a Movie Object</br>
 2) MovieDataReader.java - Reads The CSV file and loads it into a 2D array</br>
 3) TestMovieAndMovieDataReader.java - Tests the given two files</br>
 
-Additional Contributions:
+Additional Contributions: <a name="ac3" />
 -------------------------
 I attended Zoom meetings and conversations on Whatsapp
 
-Signature:
+Signature: <a name="s3" />
 ----------
 Adilnur Istekov
 </br></br></br></br>
@@ -92,7 +104,7 @@ Name of IntegrationManager: David Khachatryan</br>
 Group: CF</br>
 Team: Red Team</br>
 
-Complete List of Files:
+Complete List of Files: <a name="file-list" />
 -----------------------
 [backEndHash.java](https://github.com/KhachDavid/cs400-p1/blob/main/backEndHash.java) - Created by Abhimany</br>
 [backInterface.java](https://github.com/KhachDavid/cs400-p1/blob/main/backInterface.java) - Created by Abhimany</br>
@@ -147,7 +159,7 @@ To clear the .class files, run
 make clean. 
 ```
 
-Team Member Contributions:
+Team Member Contributions: <a name="tmc" />
 --------------------------
 
 Zhiyuan did an amazing job with the frontend. He really went over the line with the front-end design.</br>
@@ -157,7 +169,7 @@ Adilnur completed his responsibilites on time and very accurately. </br>
 Overall, the team did fine. We were a little clumsy in terms of being systematic. Next time, we should have a strict deadline to avoid
 last minute hassle. 
 
-Signature: David Khachatryan
+Signature: David Khachatryan <a name="s4" />
 ----------
 
 ## Demo<a name="demo"/>
